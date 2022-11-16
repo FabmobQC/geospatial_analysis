@@ -1,6 +1,10 @@
-# Script pour calculer le nombre de panneaux dans la zone de Plaza Saint-Hubert
+# Script to count and extract Signalec poles from Montreal Open Data
 
-## Reférence
+Data source:
+
+https://donnees.montreal.ca/ville-de-montreal/stationnement-sur-rue-signalisation-courant
+
+## Reference of used library
 https://turfpy.readthedocs.io/en/latest/measurements/points_within_polygon.html
 
 
